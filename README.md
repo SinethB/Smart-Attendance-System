@@ -1,6 +1,6 @@
 # Smart Attendance System
 
-An automated attendance tracking system that uses facial recognition and integrates multiple advanced features like liveness detection, gesture recognition, and emotion analysis. This project is built for real-time performance and scalability, suitable for classrooms or workplaces.
+An automated attendance tracking system that uses facial recognition and integrates multiple advanced features like gesture recognition, and emotion analysis. This project is built for real-time performance and scalability, suitable for classrooms or workplaces.
 
 ## Features
 
