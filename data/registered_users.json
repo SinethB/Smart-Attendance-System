@@ -1,0 +1,18 @@
+{
+    "1": {
+        "name": "Anuja",
+        "image_path": [
+            "data/user_images/1\\1_0.jpg",
+            "data/user_images/1\\1_1.jpg",
+            "data/user_images/1\\1_2.jpg",
+            "data/user_images/1\\1_3.jpg",
+            "data/user_images/1\\1_4.jpg",
+            "data/user_images/1\\1_5.jpg",
+            "data/user_images/1\\1_6.jpg",
+            "data/user_images/1\\1_7.jpg",
+            "data/user_images/1\\1_8.jpg",
+            "data/user_images/1\\1_9.jpg"
+        ],
+        "face_embedding": []
+    }
+}
